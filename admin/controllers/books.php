@@ -14,3 +14,5 @@ class MiniUniversityControllerBooks extends JControllerAdmin {
 		return $model;
 	}
 }
+
+// edit by mojtaba
